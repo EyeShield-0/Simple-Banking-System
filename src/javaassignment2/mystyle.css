@@ -1,0 +1,20 @@
+/*
+Angel Naguit
+Ayusha Chaudhry 100968449
+*/
+
+.root{
+    -fx-background-color: #8BA870; 
+    -fx-border-color: olive;
+    -fx-border-width: 7;
+    -fx-padding: 50;
+    
+    -fx-background-image: url("icon.png");
+    -fx-background-position: top;
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: 300;
+    
+}
+
+
+
