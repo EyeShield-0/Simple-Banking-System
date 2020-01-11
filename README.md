@@ -1,5 +1,5 @@
 # Simple-Banking-System
-A Java system made using JavaFx
+A Java system made using JavaFx.
 
 
 Developed by 
